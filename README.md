@@ -1,10 +1,10 @@
 SMART HOME AUTOMATION using HC 05 Bluetooth Module:
-This project is implemented in 2 modes
-1. Bluetooth mode (default mode)
-2. Manual mode
-Smart Home Automation is a solution that enable us to control our home appliaces through Mobile in bluetooth mode.
-  - Implemented smart phone based home automation mini-project using HC 05 Bluetooth Module.
-  - External Interrupt0 (EINT0 -> SW3-P0.16) is used to select the mode between default Bluetooth mode and Manual mode with every switch (SW3) press.
+- Home automation systems advancing towards mechanization processes whereby less human efforts are required by the machinery equipment to control numerous systems in homes. It involves automatic controlling of home appliances using completely different technologies and controllers over desktops, laptops good phones or tablets.
+- This project is implemented in 2 modes
+  1. Bluetooth mode (default mode)
+  2. Manual mode
+- Implemented smart phone based home automation mini-project using HC 05 Bluetooth Module.
+- External Interrupt0 (EINT0 -> SW3-P0.16) is used to select the mode between default Bluetooth mode and Manual mode with every switch (SW3) press.
   - MANUAL MODE:
     - LED3 (P0.19) is in ON state when in manual mode and in OFF state for BT mode.
     - SW1 (P0.14) is used to control the light bulb.
@@ -20,5 +20,5 @@ Smart Home Automation is a solution that enable us to control our home appliaces
       - d/D Fan OFF
       - e/E Both ON
       - f/F Both OFF
-  - Here, UART0 interrupt (UINT0) is used to give input command to control the LED and Fan accordingly.
+    - Here, UART0 interrupt (UINT0) is used to give input command to control the home appliances accordingly. 
    
