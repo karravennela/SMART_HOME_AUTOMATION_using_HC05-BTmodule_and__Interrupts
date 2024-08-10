@@ -24,4 +24,5 @@ Working:
       - e/E Both ON
       - f/F Both OFF
     - Here, UART0 interrupt (UINT0) is used to give input command to control the home appliances accordingly. 
-   
+Test file:
+smart_home_automation.hex link:
