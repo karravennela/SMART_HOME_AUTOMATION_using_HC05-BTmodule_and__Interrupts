@@ -1,6 +1,6 @@
 # SMART HOME AUTOMATION using HC 05 Bluetooth Module:
 # Introduction:
-- Home automation systems advancing towards mechanization processes whereby less human efforts are required by the machinery equipment to control numerous systems in homes. It involves automatic controlling of home appliances using completely different technologies and controllers over desktops, laptops good phones or tablets.
+- Home automation systems advancing towards mechanization processes whereby less human efforts are required by the machinery equipment to control numerous systems in homes. It involves automatic controlling of home appliances using completely different technologies and controllers over desktops, laptops, phones or tablets.
 # Features:
 - This project is implemented in 2 modes
   1. Bluetooth mode (default mode)
